@@ -1,0 +1,25 @@
+target,String Accuracy,Position Accuracy,Fingering Accuracy,Perfect Accuracy
+grade_3_b.csv,84,84,84,84
+grade_4_a.csv,64,56,56,56
+grade_5_a.csv,40,30,30,30
+rondo_capriccioso1.csv,72,57,53,50
+vio10_bach1.csv,426,344,277,269
+vio1_bach1.csv,434,432,335,330
+vio2_bach1.csv,427,343,271,262
+vio3_bach1.csv,434,435,340,335
+vio4_bach1.csv,420,374,296,292
+vio5_bach1.csv,434,416,327,323
+vio6_bach1.csv,409,301,234,231
+vio7_bach1.csv,420,395,309,304
+vio8_bach1.csv,411,319,252,244
+vio9_bach1.csv,424,376,299,294
+vio10_bach2.csv,1103,971,876,723
+vio1_bach2.csv,1093,1054,944,790
+vio2_bach2.csv,1098,1062,954,787
+vio3_bach2.csv,1105,1043,975,814
+vio4_bach2.csv,1104,1052,964,798
+vio5_bach2.csv,1097,1061,954,791
+vio6_bach2.csv,1098,1050,949,786
+vio7_bach2.csv,1089,1016,910,751
+vio8_bach2.csv,1104,1058,944,780
+vio9_bach2.csv,1103,1071,959,797
